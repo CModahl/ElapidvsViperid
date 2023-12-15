@@ -1,0 +1,22 @@
+FastQC: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+Trimmomatic: http://www.usadellab.org/cms/?page=trimmomatic
+ABySS/TransABySS: https://github.com/bcgsc/transabyss
+Trinity: https://github.com/trinityrnaseq/trinityrnaseq/wiki
+Bowtie2: https://github.com/BenLangmead/bowtie2
+Extender: Rokyta DR, Lemmon AR, Margres MJ, Aronow K. The venom-gland transcriptome of the eastern diamondback rattlesnake (Crotalus adamanteus). BMC Genomics. 2012;13:312.
+PEAR: https://github.com/tseemann/PEAR
+CD-HIT: https://github.com/weizhongli/cdhit
+Exonerate: https://github.com/nathanweeks/exonerate
+EvidentialGene: http://arthropods.eugenes.org/EvidentialGene/
+RSEM: https://github.com/deweylab/RSEM
+Diamond: https://github.com/bbuchfink/diamond
+OrfPredictor: http://proteomics.ysu.edu/tools/docs/OrfPredictor_faq.html
+Venomix: https://bitbucket.org/JasonMacrander/venomix/src/master/
+GFOLD: https://github.com/knowledgefold/gfold
+Gene Set Enrichment Analysis (GSEA): https://www.gsea-msigdb.org/gsea/index.jsp
+Cytoscape: https://cytoscape.org
+tBLASTn: https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html
+AliBaba2.1: http://gene-regulation.com/pub/programs/alibaba2/
+fastx_clipper: http://hannonlab.cshl.edu/fastx_toolkit/commandline.html
+miRDeep2: https://github.com/rajewsky-lab/mirdeep2
+miRanda: https://anaconda.org/bioconda/miranda
